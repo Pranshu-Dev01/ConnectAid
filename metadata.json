@@ -1,0 +1,8 @@
+{
+  "name": "ConnectAid AI",
+  "description": "An accessible platform that instantly connects users in emergency situations with verified NGOs, volunteers, and government responders using AI-powered assistance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
